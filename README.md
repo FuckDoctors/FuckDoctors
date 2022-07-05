@@ -2,10 +2,13 @@
 
 <img src="https://github-readme-stats-fuckdoctors.vercel.app/api?username=FuckDoctors&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" align="right">
 
+状态：
  - 🔭 正在搬砖
  - 👯 做一些杂事
  - 🤔 头发在变少
  - ⚡ Java, Spring, Vue.js
+ 
+ 联系我：
  - 🏠 <https://zhaobc.site>
  - 📧 <hi@zhaobc.site>
 
